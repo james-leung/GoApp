@@ -1,5 +1,5 @@
 ---
-title: 'My New Post'
+title: 'My new post'
 date: '2023-04-19'
 ---
 
